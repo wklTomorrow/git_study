@@ -4,6 +4,9 @@ const getValue = () => {
         age: '20',
         sayWord: () => {
             console.log('hello world')
+        },
+        print: () => {
+            console.log('print')
         }
     }
 }
